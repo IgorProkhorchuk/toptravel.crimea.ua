@@ -392,8 +392,8 @@ body { background: var(--white); }
 
 .hero-text {
   color: var(--white);
-  font-size: var(--fs-5);
-  margin-bottom: 40px;
+  font-size: var(--fs-9);
+  margin-bottom: 40px; 
 }
 
 .btn-group {
